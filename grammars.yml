@@ -191,6 +191,8 @@ vendor/grammars/agda-github-syntax-highlighting:
 - source.agda
 vendor/grammars/aidl-language:
 - source.aidl
+vendor/grammars/aleo-instructions-syntax-vscode:
+- source.aleo
 vendor/grammars/ampl:
 - source.ampl
 vendor/grammars/android-system-tools:

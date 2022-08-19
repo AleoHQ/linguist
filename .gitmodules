@@ -227,6 +227,9 @@
 [submodule "vendor/grammars/aidl-language"]
 	path = vendor/grammars/aidl-language
 	url = https://github.com/google/aidl-language
+[submodule "vendor/grammars/aleo-instructions-syntax-vscode"]
+	path = vendor/grammars/aleo-instructions-syntax-vscode
+	url = https://github.com/AleoHQ/aleo-instructions-syntax-vscode.git
 [submodule "vendor/grammars/ampl"]
 	path = vendor/grammars/ampl
 	url = https://github.com/ampl/sublime-ampl
