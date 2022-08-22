@@ -4,10 +4,10 @@ on:
   # Trigger the workflow on push or pull request, but only for the master branch
   push:
     branches:
-      - master
+      - aleo
   pull_request:
     branches:
-      - master
+      - aleo
 
 jobs:
   run:
